@@ -4,7 +4,6 @@
 |-----------------------|---------|
 | nimda AS z.rohani     | xs2@nsi |
 | nimda AS anita        | xs2@nsi |
-| nimda AS anilah       | xs2@nsi |
 
 ## OPEN SCREEN NEW BUDGET INITIAL
 
